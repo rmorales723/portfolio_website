@@ -1,11 +1,11 @@
 export const projects = [
   {
-    title: 'MERN Memories',
-    description: "Using React, Node.js, Express & MongoDB you'll learn how to build a Full Stack MERN Application - from start to finish. The App is called Memories and it is a simple social media app that allows users to post interesting events that happened in their lives.",
+    title: 'training-appointment-scheduler',
+    description: "Using React for the frontend, and Ruby on Rails for the backend. This project creates appointments for clients that have personal training with a specific trainer.",
       image: '/images/1.png',
-      tags: ['Mongo', 'Express', 'React', 'Node'],
+      tags: ['React', 'Ruby','Rails'],
     source: 'https://google.com',
-    visit: 'https://google.com',
+    visit: 'https://github.com/rmorales723/training-appointment-scheduler',
     id: 0,
   },
   {

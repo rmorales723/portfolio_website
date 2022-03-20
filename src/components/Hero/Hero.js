@@ -13,9 +13,11 @@ const Hero = (props) => (
           My Personal Portfolio
         </SectionTitle>
         <SectionText>
-        The purpose of JavaScript Mastery is to help aspiring and established developers to take their development skills to the next level and build awesome apps.
+        I am a software developer from New York City, and I recently graduated from the Flatiron School for computer engineering.
+        I also have over 20 years in the fitness industry, coupled with owning my own gyms gives me a strong entrepreneurial, managerial, and customer service skills.
+        These attributes, in conjunction with a year at Flatiron bootcamp building apps, make me confident of the value I will bring to your company.
         </SectionText>
-        <Button onClick={props.handleClick}>Learn More</Button>
+        <Button onClick={() => window.location = 'https://robmorales723@gmail.com'}>Learn More</Button>
       </LeftSection>
     </Section>
   </>
