@@ -2,7 +2,7 @@
 
 ![Portfolio Website](https://i.ibb.co/WgPMpts/image.png)
 
-This is my portfolio, resume and my business card.
+This is my portfolio, resume and business card.
 
 I`m using React and Next.js.
 
