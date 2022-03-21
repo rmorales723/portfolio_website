@@ -13,9 +13,10 @@ const Hero = (props) => (
           My Personal Portfolio
         </SectionTitle>
         <SectionText>
-        I am a software developer from New York City, and I recently graduated from the Flatiron School for computer engineering.
-        I also have over 20 years in the fitness industry, coupled with owning my own gyms gives me a strong entrepreneurial, managerial, and customer service skills.
-        These attributes, in conjunction with a year at Flatiron bootcamp building apps, make me confident of the value I will bring to your company.
+        Hello World!<br/>
+         After a career change into software engineering, I`ve experienced first hand how much work it requires to get involved and be successful.
+        Technology leads, Society follows! I love combining the worlds of logic, and creativity to make user friendly websites and applications.
+        I`m excited to make the leap and to continue refining my skills with the right company.
         </SectionText>
         <Button onClick={() => window.location = 'https://robmorales723@gmail.com'}>Learn More</Button>
       </LeftSection>
