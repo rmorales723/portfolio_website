@@ -18,7 +18,7 @@ const Hero = (props) => (
         Technology leads, Society follows! I love combining the worlds of logic, and creativity to make user friendly websites and applications.
         I`m excited to make the leap and to continue refining my skills with the right company.
         </SectionText>
-        <Button onClick={() => window.location = 'https://robmorales723@gmail.com'}>Learn More</Button>
+        <Button onClick={() => window.location = 'https://rob@robgmorales.com'}>Learn More</Button>
       </LeftSection>
     </Section>
   </>
