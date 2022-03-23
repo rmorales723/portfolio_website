@@ -10,7 +10,7 @@ export const projects = [
   },
   {
     title: 'Gym Client Membership',
-    description:"A simple app that allows the current user (in this case the Gym) access to the list of current Gym members. Here we set up authentication, authorization, error handling, RESTful Routes, and full CRUD potentiality.",
+    description:"A simple app that allows the current user (in this case the Gym) access to the list of current Gym members. Utilizing authentication, authorization, error handling, RESTful Routes, and full CRUD potentiality.",
     image: '/images/2.png',
     tags: ['React', 'Ruby','Rails'],
     source: 'https://google.com',
