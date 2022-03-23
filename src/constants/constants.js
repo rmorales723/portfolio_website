@@ -2,7 +2,7 @@ export const projects = [
   {
     title: 'Training Appointment Scheduler',
     description: "Using React for the frontend, and Ruby on Rails for the backend. This project creates appointments for clients that have personal training with a specific trainer. Here we implemented the React BigCalendar, email response, authentication, authorization, error handling, RESTful Routes, and full CRUD capabilities.",
-      image: '/images/1.png',
+      image: '/images/5.png',
       tags: ['React', 'Ruby','Rails'],
     source: 'https://google.com',
     visit: 'https://github.com/rmorales723/training-appointment-scheduler',
