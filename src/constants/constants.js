@@ -34,6 +34,15 @@ export const projects = [
     source: 'https://google.com',
     visit: 'https://github.com/rmorales723/dream-car-garage',
     id: 2,
+  },
+  {
+    title: 'Bad Dad Jokes',
+    description: "This project displays random bad-dad-jokes, and like button if you like the joke. We make a fetch API request (GET) to the url to fetch a joke, and then it displays a joke to the UI. There is also a like button that has a 'count' component that increments the counter every time the like button is pressed.",
+      image: '/images/4.png',
+      tags: ['React', 'db.json'],
+    source: 'https://google.com',
+    visit: 'https://github.com/rmorales723/bad-dad-jokes',
+    id: 2,
   }
 ];
 
