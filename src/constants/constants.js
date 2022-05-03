@@ -27,12 +27,12 @@ export const projects = [
     id: 2,
   },
   {
-    title: 'Bad Dad Jokes',
-    description: "This project displays random bad-dad-jokes, and like button if you like the joke. There is also a like button that has a 'count' component that increments the counter every time the like button is pressed.",
-    image: '/images/4.png',
-    tags: ['React'],
+    title: 'React-Shopping-Cart',
+    description: "This project I created a little web shop with a cart. As the consumer you can add items, delete items, and it displays the total sum amount.",
+    image: '/images/6.png',
+    tags: ['React', 'ReactQuery','MaterialUI', 'TypeScript', 'StyleComponents'],
     source: 'https://google.com',
-    visit: 'https://github.com/rmorales723/bad-dad-jokes',
+    visit: 'https://github.com/rmorales723/react-shopping-cart',
     id: 3,
   },
 ];
