@@ -3,7 +3,7 @@ export const projects = [
     title: 'React-Shopping-Cart',
     description: "This project I created a little web shop with a shopping cart. As the consumer you can add items, delete items, and displays the total sum amount.",
     image: '/images/6.png',
-    tags: ['ReactQuery', 'MaterialUI', 'TypeScript', 'StyleComponents'],
+    tags: ['ReactQuery', 'MaterialUI', 'TypeScript'],
     source: 'https://google.com',
     visit: 'https://github.com/rmorales723/react-shopping-cart',
     id: 3,
