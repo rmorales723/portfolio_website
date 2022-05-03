@@ -1,5 +1,14 @@
 export const projects = [
   {
+    title: 'React-Shopping-Cart',
+    description: "This project I created a little web shop with a cart. As the consumer you can add items, delete items, and it displays the total sum amount.",
+    image: '/images/6.png',
+    tags: ['ReactQuery', 'MaterialUI', 'TypeScript', 'StyleComponents'],
+    source: 'https://google.com',
+    visit: 'https://github.com/rmorales723/react-shopping-cart',
+    id: 3,
+  },
+  {
     title: 'Training Appointment Scheduler',
     description: "Using React for the frontend, and Ruby on Rails for the backend. This project creates appointments for clients that have personal training with a specific trainer. Implementing React BigCalendar, email-response, authentication, authorization, error handling, RESTful Routes, and full CRUD capabilities.",
       image: '/images/5.png',
@@ -25,16 +34,7 @@ export const projects = [
     source: 'https://google.com',
     visit: 'https://github.com/rmorales723/dream-car-garage',
     id: 2,
-  },
-  {
-    title: 'React-Shopping-Cart',
-    description: "This project I created a little web shop with a cart. As the consumer you can add items, delete items, and it displays the total sum amount.",
-    image: '/images/6.png',
-    tags: ['React', 'ReactQuery','MaterialUI', 'TypeScript', 'StyleComponents'],
-    source: 'https://google.com',
-    visit: 'https://github.com/rmorales723/react-shopping-cart',
-    id: 3,
-  },
+  }
 ];
 
 export const TimeLineData = [
