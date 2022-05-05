@@ -27,15 +27,6 @@ export const projects = [
     id: 3,
   },
   {
-    title: 'spaceInvader',
-    description: "This Project uses Python and PyGame to create this simple spaceInvaders game.",
-    image: '/images/7.png',
-    tags: ['Python', 'PyGame'],
-    source: 'https://google.com',
-    visit: 'https://github.com/rmorales723/spaceInvader',
-    id: 3,
-  },
-  {
     title: 'Dream Car Garage',
     description: "This simple project lists and shows a collection of exotic cars. Here we are able to fetch, and create.",
       image: '/images/3.png',
@@ -43,6 +34,15 @@ export const projects = [
     source: 'https://google.com',
     visit: 'https://github.com/rmorales723/dream-car-garage',
     id: 2,
+  },
+  {
+    title: 'spaceInvader',
+    description: "This Project uses Python and PyGame to create this simple spaceInvaders game.",
+    image: '/images/7.png',
+    tags: ['Python', 'PyGame'],
+    source: 'https://google.com',
+    visit: 'https://github.com/rmorales723/spaceInvader',
+    id: 3,
   },
   {
     title: 'Bad Dad Jokes',
