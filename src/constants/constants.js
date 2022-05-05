@@ -1,14 +1,5 @@
 export const projects = [
   {
-    title: 'React-Shopping-Cart',
-    description: "This project I created a little web shop with a shopping cart. As the consumer you can add items, delete items. It reconfigures pricing, and displays the total sum amount.",
-    image: '/images/6.png',
-    tags: ['ReactQuery', 'MaterialUI', 'TypeScript'],
-    source: 'https://google.com',
-    visit: 'https://github.com/rmorales723/react-shopping-cart',
-    id: 3,
-  },
-  {
     title: 'Training Appointment Scheduler',
     description: "Using React for the frontend, and Ruby on Rails for the backend. This project creates appointments for clients that have personal training with a specific trainer. Implementing React BigCalendar, email-response, authentication, authorization, error handling, RESTful Routes, and full CRUD capabilities.",
       image: '/images/5.png',
@@ -25,6 +16,15 @@ export const projects = [
     source: 'https://google.com',
     visit: 'https://github.com/rmorales723/gym-client-membership',
     id: 1,
+  },
+  {
+    title: 'React-Shopping-Cart',
+    description: "This project I created a little web shop with a shopping cart. As the consumer you can add items, delete items. It reconfigures pricing, and displays the total sum amount.",
+    image: '/images/6.png',
+    tags: ['ReactQuery', 'MaterialUI', 'TypeScript'],
+    source: 'https://google.com',
+    visit: 'https://github.com/rmorales723/react-shopping-cart',
+    id: 3,
   },
   {
     title: 'Dream Car Garage',
